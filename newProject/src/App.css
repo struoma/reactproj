@@ -1,0 +1,72 @@
+
+.sub{
+
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+}
+
+.bell{
+  font-style: italic;
+  font-weight: bold;
+  
+
+}
+
+.search{
+
+width: 20px;
+}
+
+.container a:hover{
+
+color: rgb(167, 11, 11);
+font-size: 1rem;
+}
+.subPrice,.subName{
+  font-size: 20px;
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+
+}
+
+.navColor{
+
+  margin-bottom: 50px;
+  background-color: rgba(63, 4, 4, 0.863);
+}
+
+.navText a{
+
+  font-style: italic;
+  font-weight: bold;
+  color: white;
+}
+
+.btn2{
+
+  background-color: rgba(90, 7, 7, 0.897);
+  border-radius: 30px;
+  color: white;
+  margin-left: 160px;
+  
+}
+
+.imgThanks{
+  border-radius: 100%;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.cusName{
+
+  font-weight: bold;
+}
+
+.thanksBorder{
+
+  border-top: 2px dotted gray;
+  margin-bottom: 20px;
+  border-bottom: 2px dotted gray;
+}
